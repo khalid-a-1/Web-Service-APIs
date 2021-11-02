@@ -1,0 +1,113 @@
+{"spotify": {"appid": "9e6455bc1d7d454b9e16ba1001252001",
+      "appsecret": "f6eb1de058334c249f98b2df14a09833 ",
+      "redirect_uri": "https://localhost/callback/",
+      "users":
+               {"kelly":
+    {"access_token": "BQBrHjSS-6AmFWfO_-sx1ngpInBz8B5s1fF_H10vl9AsK_5J0Y7ONerl9bzptvjU_r2vepgcpvnRJoM2--qhn3N8BoBAwEAQUDi5U5-XXLUOJnxXyrNFjJBphsdoNF7s_ubDtu8gSqNCvGJL04z9wdgfs-BmUDNWK6mGsEismuxa9vl8o0-n5g4kmg",
+     "refresh_token": "AQAKhBg8HqB2hB_3TZBlF-e3Qloa0kEF1k-QHdMWMMwfKbT8vUVXMV7mHFsNeHkMRZzThj7vwNklEJ48lETQmdMnk0HmP6k_e2Kh_C3LNR6fISrm-tKq8pvVgdidUbGhT_4",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-read-private user-top-read"
+    },
+                "giorgi":
+    {"access_token": "BQCKzfNir6uS9DbCeV6u0NkccTMtdG3-V9cXPlPYHd6y2AeXuk496yaJwkSg3ylF122eZV2tvNurKFMXsBGsC6v7q-E5VsawbqmUGYPUZ-zL_h62j1yzNE3m-FWtee0aylwnQiy9GuCm4StpRauWo8Z_e2TGz-48P9QyPKQQ_MTyKCLPcIt61YYJ2g",
+     "refresh_token": "AQCPYiiGxw5oFeD-stXccIxbpuSEFgDPuij8OmLLQbB-KeT-pY1Wn1cJIMIoq0j9YB319LH6cp0NpFTM5QbPVI-UXSRRQnRlCXdAYUU1UeVHhqj5XLwSNvHU0KUTSQQsPbE",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-read-private user-top-read"
+    },
+                "liam":
+    {"access_token": "BQDBLrnqQSyZzR9tWiXEXArYaOnc240AJqLxAtWdzsV25VeY6Vxdk3nrzxXegCA3-Bb5pjag45Gp8GsvU6XruiKXJKWODjQQfs-A-v6ZMt3Ji8TrSNU_bpsolP3jmrYtlCVhcUnqT_wWnMA1hI6JawLoRy1tCqPJZhyVKjYu",
+     "refresh_token": "AQBbKlNiP0nIVaoDHFmwFfOzG6cW2lLXwhv4FmumZiFbXxF2MvVN6sLXTOUclRf48w0srDLXBepPZ9EY99f1kaMD-58ZyO4nc--ADqan2oIH3VP2L5Z63bpfQAw-zUGGeaM",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-read-private user-top-read"
+    },
+                "issac":
+    {"access_token": "BQBaO9L9bQ2t-_TXVPiu03cYEu_Mma3xCNkPguIc40xXZcp_PBwojNpCjT81F2MtXFsGN8vzuU9ZcGhRsXnEKx5MC4rmL7donyapW2kM2voZ-xqzDfV3mPHHLRTQaI3A19nj1ZYfoz1Sheq8buzCkHMA-DQQ5hs1sdQmdwJtSOOAqn1OWCMVURYlYQ8QlA",
+     "refresh_token": "AQCo2p_cmJLo9xxiZlpoUASrfV_YKJ3kHqrSXzktnDtaOzqSBFQ7ZOf1t3uVuuB-WsUf1eKkezvQ-iFjCgJAuURqbNW-SdsTYXv-XI--UkQXonwhi8FEr2eOgpNMatC0WhM",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-read-private user-top-read"
+    },
+                "brandon":
+    {"access_token": "BQDmA78q92jBonZQk5azCi3IlQ4ifOZ3e-8PZvwqR9dLnHiAt9jWABhpph2oezkH6r_sF3dblOYV74rIZk6m0Vn1HBcW9irorGckgzFN8uWQPmYNJ4cmig1dodWrJpre_1KjBAwPyOJQQOM-RT8VYIzYZdxkCngp4wLYRMaZLaKjjPledwqXvMjzGw",
+     "refresh_token": "AQAuLVKXbo6gQg32tFmWozetsUJ9BmWcWWg4nv5Xh1ubKZqKDFcyJKhvJnicVRPeipct-aK25bmc-t4qtneVf4GPRXB4LKaWcU9odOmjr7ka6lM4aSwlEXO2DlDFChu9b68",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-read-private user-top-read"
+    },
+                "jessie":
+    {"access_token": "BQDXsSsBCiW-HND1WmvUkDywh3vISFtkoIIIDjmxRuriU6jCVq_kdXQ6TuzqWIYTUpnRdXjP0eNzi52PleQnv_a-nUvqwPr0Jt8f-X2d3VTPRKCMXKAc2AkHEYbEDhBGHem2epudmE2yxi-OgC63blboS733l0Fbvw",
+     "refresh_token": "AQDJYJYENiIu2twgbVHT61jdhGRZQCqYUMyNjjYYHk50dZ--UPon-GlaUJNhlnsucKtv5wG2VLhOp2sVRlh0AL4QYfbKDq-pgzVYl5yqiFtMXQ2rE9mpZBSGTODOjXumNW8",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-read-private user-top-read"
+    },
+                "tess":
+    {"access_token": "BQCcLwhHlOygoEpt38-7qHGo0tx5t4BxgH98vgc5tukEMwXjuQ7aI7m0W4If_ruCYHBpu9J96Tbn656sIgMZqH0-sPFE0gN4UB-3BMnEXJH9zlvp0InlkRPQKMim71oMBxtno8cjAOPrO5KVK2jsUPjAx8VeAHKek_WfIhTKuQ",
+     "refresh_token": "AQAfrkLhHl4yWHDV3ToselFDBt4rw0ImTsLhdjVRQ2TMxA0DpwJpp351V2epYqUhuyN6OkiKVC0IMWxKlqfhRzmKUqOSwXU5LwfPo2Hwn6YW4xFlwM-DP5Y-f9AB6ByTL50",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    },
+                "justin":
+    {"access_token": "BQD7XmbLCFX94nDf0B2N_GyF0pUN22muFAaUG4VW0WA3OKrt0U44lmqdTKkt2m1BKqCZGAxDNzyeg83r2VtUg__vbDgjdXtR5SXkILqNbZR8Mo0TjH90uWJZHG_5rfabbz3codYTFXIfeun8lOb_bSrz3_k8fPIobPusnw6p",
+     "refresh_token": "AQB1Dlj22ADTL5y2Nddbj8JdHfNX1UePT2bVdNWmulQ_VsxhTmFNIoSZWyrtxk2LTIzKGYp5PH12s54kXrgJGrtAJKvitX7AEuEK7OaV9O6SQFsaNvjN6rtY1CbdWNrwits",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    },
+                "olivia":
+    {"access_token": "BQD0rbTksBoLYcZH962tLfnBdRfpqhNcP_5A9s5PDorLHQM2brikZTIpg3e-4DusU7M8Sc-05pinulki3541pwfDvrzzpwQJFXNxnMnQhix5r0AUq-OLE72eZCDKeTWN3A0YUHSI5wCqk3O1rqe4WiAaQZRXMvVWSFwOFA",
+     "refresh_token": "AQCNTmJCeKBHUEp-cewQLJmfg43x-6V9FOzFUMenHEO7zuv4o3tGbwzU8cgR3vwbrPepaLb0PTeLuCWUBfpZwGozrN63kiEJI5F3DWYNz0laheIBcezNLZRCmbV2jc1USPs",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    },
+                "devan":
+    {"access_token": "BQA2DReDaF0GOt0PEFzXY422_VA_htQIbkWeA1eFeSybSdLZSxeefE3Q0VmVu60iQAi5BbsaBLKxvUmIxm2f1M-3d_-3g8Rxwdpld72vw-9RlkGol55DcBCklHlumn0t1G7j_SZxRz4lkj_FNF2qknrua2n1LI0u_0fT7RtjUZvq8CZKp4kPAy2ykg",
+     "refresh_token": "AQC7Cer-1Vk_UCIqQIZ1cCzONkdc78TPxBBY0UwtiySqWjDnYPDPsGEn2TF9PP1wLVR7R0KnVd0TnRR42jAkNmQL4aDOv7XJK6hjW_MDvgDd5k2lvWBWn6WlGaRNtVcVngM",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    },
+                "diamond":
+    {"access_token": "BQCTD0QJqjjlno9oZ5ZllAkL73yZ7R_5V2GgXnkY2NSfUzwi8iNrKrwDlX5ebLOswkibCAC04w0SVyRy3NnRAGAed0HntrD47EgDYut16Tvq7izgXN0d0IFVjMib_xMXUWXA6NbWJRyDZRvu3FX24bvL3x-opUcsYLh8AjosiXbPq3pd-msVxvPsv3bliQ",
+     "refresh_token": "AQBBDEoDLLuvv5THTmmY7XCUb4T0wi0zxW2p-46FkQMLI5zIQtAsK2ox-jUFR9uqrJSy5wAaMbYWBuHrUQmInDSGCEzhq3DVNxQeaVO95pd8Tm65O7dFfqS0a14EUQc7KCs",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    },
+                "Ziang":
+    {"access_token": "BQDC5F1Op8Dch9dfzwiQVblxAkBvgNod4CwyRpUpuA1zluzkpAp8QP_ofxJLmMUiB0zKSOl1Y9O3S8eMA5mLHCko4PCEIHs0DlWV4UCIb5zBpYUpNmegr48nsz1zdjF1VXnsglJ6U7tQbcD1qdScNcwP_Sf9NqaScnAheEp7RuE",
+     "refresh_token": "AQC5s5Fvf3fanrOJE9WGgP3TtLeVYn0zj9zz2ko468E4ZbA4cXIOHGx1Bt1Hs0C72nKl-z8XqwgSARdCJl0kwxjR_RMvhW4sR3U5_uMGy5ENE_DRMq6jzWwcmppeeG8v0xs",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    },
+                "Jessica":
+    {"access_token": "BQCzRFR89xAxCgn5gHajMlMvbkIDZzqv_TD5whDJQBGZgngf0MFX7H2IM7cOOK4zFRZw7_8mEO54SDwXVUd1rtNsXY2eAUGSWVzePM8ioE3FgHtoMrjEqGAlttjhSGyd4cV6OL1-5CpBrhfhPxn6mqwWGp1vYLqbm1xB2UZbaEg",
+     "refresh_token": "AQCrItD7Bp2fG-sPJBeRzcM5fu_KRLz9Q94ebxizXb-LKh-SZEy7vtJcEvEdlfi5Wma3r-RvGz2BO-4FywoMz5Yk6Rr0IxeiINsfsYeONp2d2U3C_gs9S0MVKzHcCupuR6Y",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    },
+                "Amna":
+    {"access_token": "BQCMYISVImLJEMK7NTqwQbWN3-Qcp5qIJLA4Zi4l0tOAA4M3o-ieh6C990HVQDxtnX_7A-4g81bOpoOBFYHGhR2AlUyWp9nT7oWdtvuz4hmkOhwDvPUCtz1T4WtRseypwW8qHHaILQ0KxPpmQ6HbqhXdfxVfIhcGL8V4AyKZIDWOlAq9hXsjzo08XReoYQ",
+     "refresh_token": "AQDTPJjvFFbxArrQsDkjFVflcgLzHhi-AcJJyt-b6pHd4pqH2CAStSpFR0XG52Vj54vqJj8KoTHUXFf-Bu6s113RA3Cu4qeaGroBWm_Yw_3TSrjWZIyTxmc15g-bc234Qag",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    },
+                "Katie":
+    {"access_token": "BQB5YwTYZxqaH3bldJfeQiUJ_Uk1TiumCc8PboCxQc72uBHFqSkuC5vM-EEL4TuYuMZD0IbbDj2abUbeMb9WvHGJHa9GtttG479u974m_dnx6SLgTAywJwJmRaQiF1DD0vofQvj2xI0jzAD2Y41CDPuV1oi34L-Vr4U4sg",
+     "refresh_token": "AQCZ2K3IWH88CIwtfNfdxiQW2PNSv8R5diFGir_2eaiUAFoV3jBGOvH4EyAriTaghKbNgUQhs7JFfzf3AgGOC2drI0PLTsDqrcUnKzcb7HpOhWcma05G0PyZrfuf1Unke7A",
+      "token_type": "Bearer",
+      "expires_in": 3600,
+      "scope": "user-follow-read user-top-read user-read-recently-played user-library-read"
+    }
+               }
+            }
+                
+}
